@@ -1,10 +1,26 @@
-.main-footer {
-    color: white;
-    background-color: rgb(37, 36, 36);
-    padding-top: 3em;
-    position: relative;
-   
-    width: 100%;
-   
-    
-  }
+.footer-block {
+	background-color: rgb(19, 18, 18);
+	color: whitesmoke;
+	margin-top: 100px;
+	padding: 20px 10px;
+	text-align: left;
+	overflow: hidden;
+}
+
+.footer-block h4 {
+	text-align: center;
+}
+.footer-block .font-weight-bold {
+	margin-bottom: 18px;
+}
+
+.footer-block a {
+	color: whitesmoke;
+	text-decoration: none;
+	margin: 5px;
+	display: inline-block;
+}
+
+.footer-block p {
+	margin-top: 20px;
+}
