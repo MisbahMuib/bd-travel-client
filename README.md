@@ -2,7 +2,7 @@
 
 This a simple travel website built using local data to get data dynamically by fetching. I used React, CSS3, React-Bootstrap5 and Vanilla JavaScript for frontend and backend using node.js, express.js.
 
-[Live site](https://bd-travel-76167.web.app/)
+[Live site](https://bd-travel-76167.web.app/) | [Live Server](https://doctors-portal-backend.herokuapp.com/)
 
 ### Features
 * User can see some best places of bangladesh for tour.
@@ -21,3 +21,5 @@ This a simple travel website built using local data to get data dynamically by f
 * Node.js
 * Express.js
 * MongoDB
+
+[Server Repository](https://github.com/misbahmuib/bd-travel-server)
