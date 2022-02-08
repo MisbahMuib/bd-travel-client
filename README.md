@@ -1,14 +1,23 @@
 ## BD TRAVEL
-Live site: https://bd-travel-76167.web.app/
 
-This a simple travel  website built using local data to get data dynamically by fetching. I used React, CSS3, React-Bootstrap5 and Vanilla JavaScript for fronend and backend using node.js, express.js
+This a simple travel website built using local data to get data dynamically by fetching. I used React, CSS3, React-Bootstrap5 and Vanilla JavaScript for frontend and backend using node.js, express.js.
 
-1.User can see some best place of bangladesh for tour.
+[Live site](https://bd-travel-76167.web.app/)
 
-2.Can see price,img,details of single service.
+### Features
+* User can see some best places of bangladesh for tour.
+* Can see price, img, details of single service.
+* User can add  any service, update also delete.
+* login authentication system added
+* Responsive Site
 
-3.Can add user any service,update,delete.
+### Front-end Technology  
+* React.js
+* Bootstrap5
+* CSS3
+* JavaScript
 
-4.Responsive site 
-
-5.Also see some special feutures
+### Back-end Technology 
+* Node.js
+* Express.js
+* MongoDB
